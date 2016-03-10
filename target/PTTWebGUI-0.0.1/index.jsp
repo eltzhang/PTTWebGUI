@@ -3,6 +3,7 @@
 <title>Hello Java EE</title>
 </head>
 <body>
-<h1>Index Page</h1>
+<h1>Home page of the performance test</h1>
+
 </body>
 </html>

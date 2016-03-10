@@ -38,5 +38,26 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_components.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_core.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_dns.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_ftp.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_functions.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_http.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_java.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_jdbc.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_jms.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_junit.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_ldap.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_mail.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_mongodb.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_monitors.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_native.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/ApacheJMeter_tcp.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/CMDRunner.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/JMeterPlugins-Extras.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/JMeterPlugins-ExtrasLibs.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/JMeterPlugins-Hadoop.jar"/>
+	<classpathentry kind="lib" path="/apps/apache-tomcat-8.0.32/lib/jmeter/lib/ext/JMeterPlugins-Standard.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
