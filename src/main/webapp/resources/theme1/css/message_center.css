@@ -1,0 +1,187 @@
+.mc_label {
+	margin: 16px 0 4px 0;
+	color: black;
+	font-size: 13px;
+	font-weight: bold
+}
+
+#mcLeftPanel input {
+	padding: 4px 0;
+	margin: 0 8px 0 0
+}
+
+.blueBox {
+	margin: 0;
+	padding: 6px 6px 4px 6px;
+	font-size: 11px;
+	border: 0 solid #e1f2f9
+}
+
+.circle {
+	width: 12px;
+	height: 12px;
+	border-radius: 12px;
+	display: block;
+	font-size: 12px;
+	margin: 0
+}
+
+.chatColor {
+	background-color: #a0b23b;
+	color: white;
+	font-weight: bold
+}
+
+.reminderColor {
+	background-color: #ff8533;
+	color: white;
+	font-weight: bold
+}
+
+.starColor {
+	background-color: #fcd937;
+	color: #666 !important;
+	font-weight: bold
+}
+
+.questionColor {
+	background-color: #d770a9;
+	color: white;
+	font-weight: bold
+}
+
+.notificationColor {
+	background-color: #5b85d6;
+	color: white;
+	font-weight: bold
+}
+
+.alertColor {
+	background-color: #d63333;
+	color: white;
+	font-weight: bold
+}
+
+.broadcastColor {
+	background-color: #929292;
+	color: white;
+	font-weight: bold
+}
+
+.desktopLayoutTbl td {
+	padding-top: 0
+}
+
+.actionContainer {
+	padding-top: 0
+}
+
+.notificationType {
+	padding: 3px 12px 3px 8px;
+	margin: 0 3px;
+	text-align: center;
+	color: white;
+	font-weight: bold
+}
+
+#message_center_list td {
+	vertical-align: middle
+}
+
+#message_center_list a {
+	text-decoration: none
+}
+
+#mcLeftPanel {
+	background-color: #f3f7ff;
+	border: 1px solid #d3e3ed;
+	padding: 0 0 6px 0
+}
+
+table.bodyOfTextContainer {
+	width: 100%
+}
+
+table.bodyOfTextContainer table {
+	background-color: #fbfbfb;
+	border: 1px solid #ccc;
+	padding: 6px 6px;
+	width: 100%
+}
+
+table.bodyOfTextContainer table td {
+	padding: 6px 6px
+}
+
+table.bodyOfTextContainer div.container {
+	background-color: #fbfbfb;
+	border: 1px solid #ccc;
+	border-top: 0 solid #ccc;
+	padding: 12px 18px
+}
+
+table.bodyOfTextContainer div.container h4 {
+	font-size: 13px
+}
+
+table.bodyOfTextContainer div.container div {
+	padding: 3px 0
+}
+
+table.bodyOfTextContainer div.container div.label {
+	color: #666;
+	padding-bottom: 0;
+	font-wieght: normal;
+	font-size: 12px
+}
+
+table.bodyOfTextContainer div.container div.btnContainer {
+	text-align: right
+}
+
+div.btnContainer {
+	text-align: right
+}
+
+div.panelBox div.inner {
+	padding-bottom: 4px
+}
+
+div.panelBox div.inner div.fr {
+	padding-top: 8px
+}
+
+ul.messagetypeList {
+	list-style: none;
+	clear: left;
+	margin: 0;
+	padding: 0
+}
+
+ul.messagetypeList li {
+	list-style: none;
+	clear: left;
+	margin: 0 0 3px 0;
+	padding: 0
+}
+
+ul.messagetypeList label {
+	overflow: hidden
+}
+
+#mcLeftPanel .listButton {
+	padding: 0 7px
+}
+
+.layoutTbl {
+	width: 100%
+}
+
+.layoutTbl td.mcLeftCell {
+	padding-right: 20px;
+	width: 240px
+}
+
+.layoutTbl td {
+	vertical-align: top
+}
